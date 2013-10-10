@@ -1,4 +1,4 @@
-micro_blogger
+MicroBlogger
 =============
 
-Microblogger (Jumpstartlab)
+[Implementação do projeto MicroBlogger (JumpstartLab)] (http://tutorials.jumpstartlab.com/projects/microblogger.html)
